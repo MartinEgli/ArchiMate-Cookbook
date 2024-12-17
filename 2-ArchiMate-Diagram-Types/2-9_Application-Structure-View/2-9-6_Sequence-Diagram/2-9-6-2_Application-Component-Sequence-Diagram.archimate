@@ -32,10 +32,6 @@
   </folder>
   <folder name="Views" id="id-5975bbbf4d2c4e59bf453ebcee8b0793" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-6-2_Figure54_Application-Component-Sequence-Diagram" id="id-3a47d54c14d74ae89b6a4ee09824cdd4">
-      <child xsi:type="archimate:Note" id="id-33b1b7ec720a4b0fa841c1f4b7f35462" textAlignment="1">
-        <bounds x="36" y="24" width="553" height="37"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-654622b4364c4001b4a46cd3dba0a20b" archimateElement="id-39a18b07e66c4253a8419d15bf1bc305">
         <bounds x="12" y="132" width="145" height="493"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-bdca2b0eb23d43999483234c4c3bd3a4" source="id-654622b4364c4001b4a46cd3dba0a20b" target="id-8c265f2aa4b04006975e0fc58939a108" archimateRelationship="id-084466b2331f4d46affe53734b2e98a4"/>

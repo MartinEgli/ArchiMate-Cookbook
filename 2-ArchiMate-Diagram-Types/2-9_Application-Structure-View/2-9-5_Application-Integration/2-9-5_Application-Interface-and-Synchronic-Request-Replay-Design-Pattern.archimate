@@ -20,7 +20,9 @@
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-5_Figure50_Application-Integration_Interface-Design-Pattern" id="id-32b41dc6e11742b4bfa779edb7f9c632">
       <child xsi:type="archimate:DiagramObject" id="id-6664456a54d94d5f8cf0521a99722de5" archimateElement="id-37a3b0f3192f45ab85774aa2589d151e">
         <bounds x="108" y="84" width="120" height="55"/>
-        <sourceConnection xsi:type="archimate:Connection" id="id-534d707b1e184340944dd92fb7a819ae" source="id-6664456a54d94d5f8cf0521a99722de5" target="id-5ef570708c774dd9a0e7553e2d1d0db1" archimateRelationship="id-cd96dc6ff3464f56b38a67936aa426e1"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-534d707b1e184340944dd92fb7a819ae" source="id-6664456a54d94d5f8cf0521a99722de5" target="id-5ef570708c774dd9a0e7553e2d1d0db1" archimateRelationship="id-cd96dc6ff3464f56b38a67936aa426e1">
+          <feature name="labelExpression" value="${type}"/>
+        </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-5ef570708c774dd9a0e7553e2d1d0db1" targetConnections="id-534d707b1e184340944dd92fb7a819ae id-c318199ad6b44b938bb149cc1ffcd1ca" archimateElement="id-8841cc06140d4df290545e86465f9205">
         <bounds x="108" y="204" width="120" height="55"/>
@@ -29,7 +31,7 @@
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-29432c424a784770a20890eefdfe94cd" targetConnections="id-5a67886cfda243d995a824c11b4a5e56" archimateElement="id-fdd29553ee7345f0b8703b16f982b108">
-        <bounds x="564" y="204" width="120" height="55"/>
+        <bounds x="348" y="204" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-c318199ad6b44b938bb149cc1ffcd1ca" source="id-29432c424a784770a20890eefdfe94cd" target="id-5ef570708c774dd9a0e7553e2d1d0db1" archimateRelationship="id-3247787a97544bbfb766686c12b723ba">
           <bendpoint startX="396" startY="8" endX="-396" endY="8"/>
         </sourceConnection>

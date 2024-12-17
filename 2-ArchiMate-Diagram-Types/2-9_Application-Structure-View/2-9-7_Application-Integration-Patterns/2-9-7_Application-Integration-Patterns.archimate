@@ -62,10 +62,6 @@
   </folder>
   <folder name="Views" id="id-ae81a58c24b2476b94f8b587b80c47f2" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-7_Figure55_Application-Integration-Patterns" id="id-e82bdbb619f8468eb796f0ed6e7e0d96">
-      <child xsi:type="archimate:Note" id="id-05621bc74243482aad06ccf67be752c1" textAlignment="1">
-        <bounds x="69" y="28" width="436" height="33"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:Note" id="id-8803f23acb544aafa72dfae81a941997" textAlignment="1">
         <bounds x="12" y="84" width="205" height="80"/>
         <content>1. &quot;App A&quot; provides an app service &quot;A-1&quot; that is used by &quot;App B&quot;</content>

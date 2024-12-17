@@ -15,15 +15,11 @@
   </folder>
   <folder name="Views" id="id-2415aa20c8464d4c9e6925d83a60e9b1" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-1_Application-Component and (Provided) Application Interface" id="id-3107a2fa31fc4cb0bfa6e3f29fd8e6fd">
-      <child xsi:type="archimate:Note" id="id-6854ab3790d9405b997e1176564feb22" textAlignment="1">
-        <bounds x="78" y="60" width="493" height="28"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-7572995bb20d423c8c841cb732a195ad" targetConnections="id-717d6388407a49e99145016237d3d7a4" archimateElement="id-a55275f2ac41443d986ed7037a5fba6a">
-        <bounds x="444" y="135" width="120" height="55"/>
+        <bounds x="12" y="12" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-f183210c63c04803aa0e3bddfe48718d" archimateElement="id-10cd61b96fcd4d80a03dff9ccbbca0b5">
-        <bounds x="78" y="135" width="120" height="55"/>
+        <bounds x="12" y="144" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-717d6388407a49e99145016237d3d7a4" source="id-f183210c63c04803aa0e3bddfe48718d" target="id-7572995bb20d423c8c841cb732a195ad" archimateRelationship="id-19020829134247a89110b85699910341">
           <feature name="labelExpression" value="${type}"/>
         </sourceConnection>

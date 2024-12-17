@@ -25,10 +25,6 @@
   </folder>
   <folder name="Views" id="id-b1da6c443e7049f092ace3672fbb07e3" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-8_Figure56_Use-Case-View_Design-Pattern" id="id-8fde50b343a44bb387cd07ddee10b28f">
-      <child xsi:type="archimate:Note" id="id-b957ac9176ce42889c2dead4407f691f" textAlignment="1">
-        <bounds x="57" y="48" width="400" height="37"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-0e5708d3c380426ca002cdeb4b9cf65e" textPosition="2" archimateElement="id-d440a9ac65574fe29923bda7ce8ec45e" type="1">
         <bounds x="57" y="232" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-a8e5732244364d18afcab6a4fe3d1658" source="id-0e5708d3c380426ca002cdeb4b9cf65e" target="id-41e0c082159645d2a0f492430a2ba937" archimateRelationship="id-d6856626771741ec9d7884e4f40cf267"/>

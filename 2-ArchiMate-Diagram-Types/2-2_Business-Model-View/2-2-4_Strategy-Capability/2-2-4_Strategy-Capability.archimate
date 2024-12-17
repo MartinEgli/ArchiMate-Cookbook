@@ -46,10 +46,6 @@
         <bounds x="96" y="108" width="157" height="55"/>
         <feature name="labelExpression" value="${name}&#xD;&#xA;(${type})"/>
       </child>
-      <child xsi:type="archimate:Note" id="id-4cff552924ce4e8385db007d2dc1c1f2" textAlignment="1">
-        <bounds x="143" y="38" width="280" height="35"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
     </element>
   </folder>
 </archimate:model>

@@ -27,10 +27,6 @@
   </folder>
   <folder name="Views" id="id-b1da6c443e7049f092ace3672fbb07e3" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-8_Figure57_Use-Case-Analysis-View-Step1" id="id-8fde50b343a44bb387cd07ddee10b28f">
-      <child xsi:type="archimate:Note" id="id-b957ac9176ce42889c2dead4407f691f" textAlignment="1">
-        <bounds x="57" y="48" width="400" height="37"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-0e5708d3c380426ca002cdeb4b9cf65e" textPosition="2" archimateElement="id-d440a9ac65574fe29923bda7ce8ec45e" type="1">
         <bounds x="57" y="232" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-a8e5732244364d18afcab6a4fe3d1658" source="id-0e5708d3c380426ca002cdeb4b9cf65e" target="id-41e0c082159645d2a0f492430a2ba937" archimateRelationship="id-d6856626771741ec9d7884e4f40cf267"/>
@@ -48,10 +44,6 @@
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-8_Figure57_Use-Case-Analysis-View-Step2" id="id-1f2b1652b3b54cb3bcbfa34db71b7dd0">
-      <child xsi:type="archimate:Note" id="id-431ee8e30acb4d89bfae7a21ae086319" textAlignment="1">
-        <bounds x="57" y="48" width="400" height="37"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-c3465515ea254b4281533fbb03b45fe5" targetConnections="id-002fad94ae424f40b918b28c2fa5b1d9 id-0a6c3f416a7046d48175d8a87247f00d id-ac99d614e1a94183bdc57d2ff258bd1e" textPosition="2" archimateElement="id-d440a9ac65574fe29923bda7ce8ec45e" type="1">
         <bounds x="57" y="232" width="120" height="55"/>
       </child>
@@ -69,10 +61,6 @@
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-8_Figure57_Use-Case-Analysis-View-Step3" id="id-1e4f044b1575415db36bae7815fdcce8">
-      <child xsi:type="archimate:Note" id="id-21cb21e2e09448b183bf4378b66f89d6" textAlignment="1">
-        <bounds x="57" y="48" width="400" height="37"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-32ed060b2d2f4e299ef2ae6f7c7c6bf3" targetConnections="id-624cc639a0cd4eb29bd51ca8fdd34c9f id-f16dacbf070c4d47a79c926e39b890a0 id-bead62139f984a1c9455d5c738bf07c9" textPosition="2" archimateElement="id-d440a9ac65574fe29923bda7ce8ec45e" type="1">
         <bounds x="33" y="226" width="120" height="55"/>
       </child>
@@ -96,10 +84,6 @@
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-8_Figure57_Use-Case-Analysis-View-Step4" id="id-a7b8f6f769d844c3a34c3255cc233087">
-      <child xsi:type="archimate:Note" id="id-49fdf852d49843a986b5f47df0b2487c" textAlignment="1">
-        <bounds x="57" y="48" width="400" height="37"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-eb4f1d18ecac4ba9b62d2dc7a73d43cf" targetConnections="id-e672ccfa11e34cd9b6c2c23cae9c0a01 id-7b02ba1d26da4d4e827163b68642e73b id-35d664bc95e44021b1947ce00585fc13" textPosition="2" archimateElement="id-d440a9ac65574fe29923bda7ce8ec45e" type="1">
         <bounds x="213" y="108" width="120" height="55"/>
       </child>

@@ -43,10 +43,6 @@
   </folder>
   <folder name="Views" id="id-10348664871649ce9fa7633efe0bebee" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-4_Figure46_Logical-Database" id="id-13e5ef39816a41a887215d7deafaa595">
-      <child xsi:type="archimate:Note" id="id-2e10f38ae3584045ae7410a9f5f0c474" textAlignment="1">
-        <bounds x="70" y="23" width="483" height="26"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:Group" id="id-8e1b9ccb1c594d50a0df3c12651c446e" name="Usage Scenario" textAlignment="1">
         <bounds x="70" y="480" width="400" height="140"/>
         <child xsi:type="archimate:DiagramObject" id="id-be38f4ee541342289223ef1a393e27e7" targetConnections="id-479d97a21ded4db6ad15de58f5a0a2e5" archimateElement="id-15634f59c48a4040b45a5c6b74990d69">
@@ -87,12 +83,8 @@
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-4_Figure47_Data-Model-View" id="id-2d658568c2ac42bdabae542bc54f547f">
-      <child xsi:type="archimate:Note" id="id-edff5a2088274258acbb8b502cb77fe0" textAlignment="1">
-        <bounds x="70" y="23" width="483" height="26"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-e6c7ce5eb40f412b8aec88447f5173bd" archimateElement="id-15634f59c48a4040b45a5c6b74990d69">
-        <bounds x="60" y="72" width="457" height="222"/>
+        <bounds x="12" y="12" width="457" height="222"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-25222c7062184011b1e85e0d0879a956" source="id-e6c7ce5eb40f412b8aec88447f5173bd" target="id-a52a1e9841f24c3786403b95e23a605c" archimateRelationship="id-a9baac17675741ba98b62b6d3a80b4fe"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-b463caab218f41e2bfa47ac68b04ea14" source="id-e6c7ce5eb40f412b8aec88447f5173bd" target="id-5d61f8deedc743668fc4ac9fae582bef" archimateRelationship="id-bba8311528c7486e8597aa885fa0c795"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-3a108372105e4d3298c28b8093b2768b" source="id-e6c7ce5eb40f412b8aec88447f5173bd" target="id-92c72f43e4f0404d821f2de771d6c7f5" archimateRelationship="id-85449b440e6949d3aaebc03f1fc83e71"/>
@@ -110,12 +102,8 @@
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-4_Figure48_Database-as-a-Componet-of-an-Application-System" id="id-9c3152a7a3764e51a060bf2de04aa954">
-      <child xsi:type="archimate:Note" id="id-7d48487d4414490f9d96bddcf219c6ea" textAlignment="1">
-        <bounds x="52" y="29" width="483" height="26"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-743387aded5243f3a7c54e14b8e61d6e" archimateElement="id-e28fde1c613a4e90b87f4fef49f616be">
-        <bounds x="118" y="70" width="243" height="303"/>
+        <bounds x="12" y="12" width="243" height="303"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-3a32b4f71c1045f2bcd493c02b563f86" source="id-743387aded5243f3a7c54e14b8e61d6e" target="id-91a6a9b1c682462b956545572d7899ec" archimateRelationship="id-dc05fc69844b44f584d47874c16aad3e"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-d46fa0282322490c9748ccd0e8725ca8" source="id-743387aded5243f3a7c54e14b8e61d6e" target="id-648fe12a5d334e2882d994863f2a3394" archimateRelationship="id-4e01569af6c94f57ab320ed1aa295ded"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-2cb754e19af243f7a8240a5f811be91a" source="id-743387aded5243f3a7c54e14b8e61d6e" target="id-70ca204d47b4493296abf2610ee2b543" archimateRelationship="id-64f95c7d3e2b41f5a47b08af6bf768ba"/>
@@ -133,24 +121,20 @@
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-4_Figure49_Database-Modeling-in-Different-Abstraction-Levels" id="id-c931f6ab8032481ba2feb94cad5d9cec">
-      <child xsi:type="archimate:Note" id="id-c59298101803423a8f5089cbb34acd4c" textAlignment="1">
-        <bounds x="35" y="32" width="483" height="26"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-20a21302dcab415fa5e43f47e9751f51" targetConnections="id-5842a9dc33034014bcfadbe9f6a370cd" archimateElement="id-15634f59c48a4040b45a5c6b74990d69">
-        <bounds x="60" y="84" width="120" height="55"/>
+        <bounds x="24" y="24" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-ac1a6eafad7a40a99eda389359520e37" targetConnections="id-e474411ead204e999e9caed586c1f183" archimateElement="id-1ec2b69d513340ad97fdcdbe24fc527d">
-        <bounds x="60" y="204" width="120" height="55"/>
+        <bounds x="24" y="144" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-5842a9dc33034014bcfadbe9f6a370cd" source="id-ac1a6eafad7a40a99eda389359520e37" target="id-20a21302dcab415fa5e43f47e9751f51" archimateRelationship="id-4578d27e26f24c8fb89f623ea3453651"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-0ac1c869d20b4f9893421f04df104070" archimateElement="id-10b4f4f5ae964241aeb7956e85579a9e">
-        <bounds x="264" y="204" width="120" height="55"/>
+        <bounds x="204" y="144" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-e474411ead204e999e9caed586c1f183" source="id-0ac1c869d20b4f9893421f04df104070" target="id-ac1a6eafad7a40a99eda389359520e37" archimateRelationship="id-6d43bc9fbbd94e69b77c6edb26608655"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-61db2f48a117437388b9939821092af7" source="id-0ac1c869d20b4f9893421f04df104070" target="id-a0d87fb5be204ca3bad03f062150bbfe" archimateRelationship="id-44b05182a2a740b39efb336107c686d9"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-a0d87fb5be204ca3bad03f062150bbfe" targetConnections="id-61db2f48a117437388b9939821092af7" archimateElement="id-4722b353dd524c02b3c8db60b73c49b2">
-        <bounds x="492" y="204" width="120" height="55"/>
+        <bounds x="384" y="144" width="120" height="55"/>
       </child>
     </element>
   </folder>

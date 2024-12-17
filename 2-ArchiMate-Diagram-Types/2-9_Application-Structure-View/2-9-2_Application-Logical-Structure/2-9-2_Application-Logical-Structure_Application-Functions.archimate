@@ -31,12 +31,8 @@
   </folder>
   <folder name="Views" id="id-ccc25c0662dd4cb7a845b1636592561d" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-2_Figure42_Application-Logical-Structure_Application-Functions-Assigned-to-Module-of-an-Application" id="id-994d18afac174f01a261acba128ebf19">
-      <child xsi:type="archimate:Note" id="id-4befb7a7c12a4e96b967ec3e96f2a17e" textAlignment="1">
-        <bounds x="52" y="24" width="585" height="37"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-ae4ec27e869a46b5b779db11242d1055" archimateElement="id-27b95da375bf4332968ed03281868718">
-        <bounds x="52" y="84" width="611" height="277"/>
+        <bounds x="12" y="12" width="611" height="277"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-c632a6e667c14624b1d56fb451707c01" source="id-ae4ec27e869a46b5b779db11242d1055" target="id-be6ffc72633f44438f14e846b51eea77" archimateRelationship="id-ffdd3cf819774645b44d482db675fc4c"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-d02093ac93894295a6ccd1ff72369569" source="id-ae4ec27e869a46b5b779db11242d1055" target="id-de3716f2b98d48ca8f0926c3d0549b06" archimateRelationship="id-15ef0bc491d94e40a25cd47d5f18a390"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-18bbeae4259a45028386f54adc94aa14" source="id-ae4ec27e869a46b5b779db11242d1055" target="id-c85d95c8cba44dfa8a98e81112d0fa78" archimateRelationship="id-552c1a60899e43bfb8b966510fdbf6f6"/>

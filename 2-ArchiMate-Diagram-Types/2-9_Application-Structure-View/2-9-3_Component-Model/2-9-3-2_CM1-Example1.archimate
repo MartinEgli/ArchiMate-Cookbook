@@ -62,10 +62,6 @@
   </folder>
   <folder name="Views" id="id-25341dd66fe04f849d4b72c388b12775" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-3-2_Figure44_CM-1-Example1" id="id-6f00fca4c5d14a629d70ee9089f32f70">
-      <child xsi:type="archimate:Note" id="id-860f36d8a151414887b4322352c75bb9" textAlignment="1">
-        <bounds x="46" y="19" width="327" height="30"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-22b394527fcb4dbfa556ce01ba45d808" archimateElement="id-017e16a57a9c41fa844c126654e14c32">
         <bounds x="12" y="180" width="853" height="169"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-18f6ab8775b3453880f9e25322df7144" source="id-22b394527fcb4dbfa556ce01ba45d808" target="id-5ba0489b7c524cccba7b2e2fcbb71204" archimateRelationship="id-9cb08dae40fb4e0bbaa1586f39968ba9"/>

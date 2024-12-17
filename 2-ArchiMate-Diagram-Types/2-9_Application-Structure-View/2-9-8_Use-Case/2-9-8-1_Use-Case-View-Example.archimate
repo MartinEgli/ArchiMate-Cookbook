@@ -35,10 +35,6 @@
   </folder>
   <folder name="Views" id="id-815bdb479442451aae79d48cd6c898bf" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="2-9-8-1_Figure58_Use-Case-View-Example1" id="id-5e5a94aa8fe04d3888f6546690cbb431">
-      <child xsi:type="archimate:Note" id="id-6c6cee934a8c4aa4b7cef8c529236bc3" textAlignment="1">
-        <bounds x="56" y="14" width="473" height="35"/>
-        <feature name="labelExpression" value="$view{name}"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-4c35fc771d0d4744a973c2d3cfa8cf1d" targetConnections="id-2c11b41e49c9488aa035f5249f04aa59" archimateElement="id-6eba8f4362554ba3addd809d624a90c2">
         <bounds x="336" y="60" width="120" height="55"/>
       </child>
@@ -102,10 +98,6 @@
       <child xsi:type="archimate:Note" id="id-37ac2189d8f445a8b24f95b1ac73bda5" borderType="1">
         <bounds x="540" y="60" width="217" height="145"/>
         <content>Legend</content>
-      </child>
-      <child xsi:type="archimate:Note" id="id-177d029f684249759fdc843ca6736164" textAlignment="1">
-        <bounds x="56" y="14" width="473" height="35"/>
-        <feature name="labelExpression" value="$view{name}"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-64a664394b314faa89dd1c530d4b6f4b" targetConnections="id-189f43eb653a49e79b8db1c0b8ad090d" archimateElement="id-6eba8f4362554ba3addd809d624a90c2">
         <bounds x="336" y="60" width="120" height="55"/>
