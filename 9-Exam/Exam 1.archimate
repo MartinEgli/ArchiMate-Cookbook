@@ -18,7 +18,7 @@
     <element xsi:type="archimate:Device" name="Application Server" id="id-574e5a3d71504e258974ef80d5cf7649"/>
     <element xsi:type="archimate:TechnologyFunction" name="Monitoring" id="id-92bc30a31d3b4a039722c6fb555c6494"/>
     <element xsi:type="archimate:TechnologyService" name="Logging and reporting" id="id-cba84cfb78564f2d856411738ca9a4b6"/>
-    <element xsi:type="archimate:Device" name="Claim manabement storage arry" id="id-622ec340e5af4072bb39bce3ecb6580a"/>
+    <element xsi:type="archimate:Device" name="Claim manabement storage array" id="id-622ec340e5af4072bb39bce3ecb6580a"/>
     <element xsi:type="archimate:SystemSoftware" name="Monitoring" id="id-e67daf02adf7488d9ac470a5643aeca0"/>
     <element xsi:type="archimate:Path" name="DCM (Site A)" id="id-096c0b3b7f7a4445a49b1b302c96db1c"/>
   </folder>
@@ -321,7 +321,7 @@
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Question" id="id-9b98ecb3aa5e4bf290423341f5f97f99">
       <child xsi:type="archimate:Note" id="id-9120b4ee582843768c425191f2a59e5a" font="1|Segoe UI|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1">
-        <bounds x="12" y="12" width="1117" height="613"/>
+        <bounds x="12" y="12" width="1321" height="829"/>
         <content>Please read this scenario prior to answering the question.&#xD;
 &#xD;
 The ArchiSurance enterprise document management solution plays a crucial role in supporting a large number of document types and managing a high volume of document-based transactions each day. Given its business-critical nature, the document management solution is hosted with redundancy across two geographically separate data center sites: Site A and Site B. Both sites are configured identically to ensure seamless operations.&#xD;

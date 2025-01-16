@@ -40,6 +40,7 @@
     <element xsi:type="archimate:Junction" name="Junction" id="id-aaba4245b48040e3b5a3c0f3fbe9dc0c"/>
     <element xsi:type="archimate:Grouping" name="Grouping" id="id-add13bf6a71442b0b74b948c509a9fc2"/>
     <element xsi:type="archimate:Grouping" name="Application" id="id-4e66b63f89574ffda4bc98b0b546b448"/>
+    <element xsi:type="archimate:Junction" name="Junction" id="id-5146f8e8b3bf491094412a87988e2ae6"/>
   </folder>
   <folder name="Relations" id="id-b62625683e85455493838841d2fe62b6" type="relations">
     <element xsi:type="archimate:CompositionRelationship" id="id-67156faf26274460b312154f5253d16b" source="id-d10ff2acca5b46d09472e5a0a9d06af7" target="id-e9b7df06dc9048a0804ac591594ce365"/>

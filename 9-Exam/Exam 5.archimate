@@ -159,7 +159,7 @@ Which of the following answers best describes the scenario?&#xD;
         <feature name="labelExpression" value="${name}&#xD;&#xA;(${type})&#xD;&#xA;"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-8e3996ed5fc44f78bc6179b23f25903c" archimateElement="id-3118f22102a7433e8a3b95697f7bf0c6">
-        <bounds x="372" y="12" width="120" height="55"/>
+        <bounds x="438" y="-48" width="120" height="55"/>
         <feature name="labelExpression" value="${name}&#xD;&#xA;(${type})"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-4fa3d4644fda415fb3cf490846208bf5" source="id-8e3996ed5fc44f78bc6179b23f25903c" target="id-0b6d9b2725b248d48e0665e3c2be06cc" archimateRelationship="id-232b7ddc92164499a2561fa75aed013a">
           <feature name="labelExpression" value="${type}"/>

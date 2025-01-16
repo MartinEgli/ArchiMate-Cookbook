@@ -103,7 +103,8 @@
           <sourceConnection xsi:type="archimate:Connection" id="id-3d3e77d9e3934862aff869f08751bb9a" source="id-2de0cd66734c49b58c0bc26292d653c7" target="id-1702694ead514fd1b2458860e3aabbb7" archimateRelationship="id-678a2393722c436a83643bd715b9eb78"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-38861c93e3a24d468bf3de43786fdcc6" source="id-2de0cd66734c49b58c0bc26292d653c7" target="id-6385675a7e534258ab02f8815ac49718" archimateRelationship="id-47e3b586e14a4eb287a8dc0c3a2ce06c"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-365051e44792406b9253484991c0369d" source="id-2de0cd66734c49b58c0bc26292d653c7" target="id-7b18e4b341b0432c83c6326799799258" archimateRelationship="id-00ab2ff4b7384335902dc4daf9e1f90d">
-            <bendpoint startX="138" startY="234" endX="-600" endY="33"/>
+            <bendpoint startX="138" startY="210" endX="-600" endY="9"/>
+            <bendpoint startX="414" startY="210" endX="-324" endY="9"/>
           </sourceConnection>
           <child xsi:type="archimate:DiagramObject" id="id-d70dffe888df4b8795b1e3cee9aa75d0" targetConnections="id-7a89dd7ec2f941b597e066d40cf80f90 id-6821397ad82d4d08af1382541949181f" archimateElement="id-48151a9e24234512972f7bf8ee67aa22">
             <bounds x="12" y="36" width="120" height="55"/>
@@ -457,7 +458,7 @@
         <bounds x="523" y="169" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-c12242f5799f47ee998b46b6aa6dfcbb" targetConnections="id-d102bf9ff11b43228a359fe34f415cb8 id-4b4aef010f61483ea6b3b63a17cfaa31 id-bcf5a1e6fc0f4b3bb9734b2f4960c5b2 id-f8c1ed6ac4d04adabfd75f33ff08458c" archimateElement="id-710bdefb13e84c6d93c535d50438f53e">
-        <bounds x="899" y="552" width="120" height="55"/>
+        <bounds x="877" y="540" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-c8329643839d4899aa987209eb80587b" targetConnections="id-758e6d17697f4efd830c2fa750ff1979 id-914a7fc1a15a4970b78254aca04f0c30" archimateElement="id-8bc5fd33f4c444b6bb68d3fe37d34d8a">
         <bounds x="299" y="169" width="120" height="55"/>
@@ -532,8 +533,29 @@
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Question" id="id-5aa248e2563a4a9b98ceee59972caa55">
       <child xsi:type="archimate:Note" id="id-e8de6298f29a41bd96d8ce7a02c450c4" textAlignment="1">
-        <bounds x="97" y="97" width="1056" height="432"/>
-        <content>ArchiCar has been a market leader in the premium priced luxury car sector for the last decade. Its product leadership strategy has brought superior products to market and enabled ArchiCar to achieve premium prices for is car's. The strategy has been widely successful in the past.&#xD;
+        <bounds x="96" y="84" width="1056" height="432"/>
+        <content>&quot;Please read this scenario prior to answering the question.&#xD;
+&#xD;
+The IT Operations (IT Ops) department at ArchiSurance has five core responsibilities, each encompassing a dedicated business process: (1) Batch Operations (Batch Ops), (2) Online Operations (Online Ops), (3) Security Operations (Security Ops), (4) User Support, and (5) Continuous Improvement. Service level agreements (SLAs) are in place for Batch Ops and Online Ops, and each Ops process generates monitoring data that is utilized by the Continuous Improvement process.&#xD;
+&#xD;
+The System Ops category consists of Batch Ops, Online Ops, and Security Ops, each having an incident management sub-process. These sub-processes are triggered by Batch, Online, and Security incidents, respectively. In the initial stages of the incident management sub-processes, an Incident Alert is shared with the other System Ops processes by posting it to the Alert Buffer.&#xD;
+&#xD;
+Batch Ops relies on a schedule that outlines all batch jobs and their dependencies. This schedule serves two sub-processes: Batch Planning, which updates the schedule for use by the Execution Management sub-process.&#xD;
+&#xD;
+Physical paper records are maintained for all actions and changes, resulting in time-consuming processes and increased maintenance costs.&#xD;
+&#xD;
+After attending a conference on operational excellence, the ArchiSurance management team has decided to apply the principles to their own IT Ops department, specifically focusing on the Continuous Improvement process. An identified challenge is the high operating expenses that leave little room for exploring new innovations. To address this, the management team is adopting lean management principles to support the concept of continuous improvement. They have established a team of process improvement specialists tasked with digitizing documents as part of a broader strategy to achieve operational excellence. These specific approaches aim to reduce administration and costs, enabling the savings generated to be allocated towards increasing innovation within the organization.&#xD;
+&#xD;
+In the scenario:&#xD;
+As part of an IT service management initiative, you have been assigned the task of modeling the future state of ArchiSurance IT Operations. The aim is to showcase the interrelationships between the operations management business processes and sub-processes while also illustrating the connection to this new initiative aimed at increasing innovation. The User Support process can be omitted from the model.&#xD;
+&#xD;
+Which of the following answers provides the most complete and accurate model? Note that specific cost reduction approaches beyond that described in the scenario are excluded from the model.&quot;&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+ArchiCar has been a market leader in the premium priced luxury car sector for the last decade. Its product leadership strategy has brought superior products to market and enabled ArchiCar to achieve premium prices for is car's. The strategy has been widely successful in the past.&#xD;
 &#xD;
 Until recently, competitors have been offering comparable products and taking significant market share. The governing board of ArchCar has identified opportunities in emerging markets where the ArchCar brand is associated with luxury and high-performance products, but it is thought to be too expensive for mass-market success. Based on this assessment, the board has made the decision to set up a subsidiary company to mass-produce affordable cars locally. This will be achieved by focusing on a strategy of operational excellence. Such a strategy is ideal for such markets where customers value cost over other factors.&#xD;
 &#xD;
